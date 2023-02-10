@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "MTC.BackGroundService": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
